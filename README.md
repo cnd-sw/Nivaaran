@@ -10,7 +10,13 @@ A mobile application that crowd sources water-related problems from around a com
 
 **_detecting_location_from_text.py** for code to detect location from captions and to classify the severity of the disaster. This made use of Opengate API and Instagram Basic Display API.
 
+**_flood_detection_mobile_net.py** for code to detect flood or non flood images using MobileNet.
 
+**_flood_vgg19.py** for code to detect flood or non flood images using VGG 19.
+
+**flask.py** for the code to make a flask which combined the 2 Machine Learning models.
+
+**model.h5** for the code of android application.
 
 Fig 1 shows the Block Diagram and Flowchart of project.
 
