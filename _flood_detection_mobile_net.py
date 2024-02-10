@@ -142,7 +142,7 @@ plot_confusion_matrix(cm=cm, classes=cm_plot_labels, title='Confusion Matrix')
 
 # Display image which we want to predict
 from IPython.display import Image
-Image(filename='/content/drive/MyDrive/Dataset/data/test/normal/zfelvjc052cu2cxy37i6dgi11045iynv.jpeg', width=300,height=200)
+Image(filename='zfelvjc052cu2cxy37i6dgi11045iynv.jpeg', width=300,height=200)
 
 from tensorflow.keras.preprocessing import image
 import numpy as np
@@ -151,7 +151,7 @@ import numpy as np
 model = tf.keras.models.load_model("fine_tuned_flood_detection_model")
 
 # Define the path to the image you want to test
-image_path = '/content/drive/MyDrive/Dataset/data/test/normal/zfelvjc052cu2cxy37i6dgi11045iynv.jpeg'
+image_path = 'zfelvjc052cu2cxy37i6dgi11045iynv.jpeg'
 
 # Load and preprocess the image
 img = image.load_img(image_path, target_size=(224, 224))
