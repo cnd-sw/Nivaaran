@@ -20,11 +20,11 @@ A mobile app that crowd sources water-related problems from around a community, 
 
 ✨Tech Stack
 
-Front-End:
+✅ Front-End:
 1. Figma: UI/UX design.
 2. Android Studio: Android app development.
 
-Back-End:
+✅ Back-End:
 1. Java: Server-side logic.
 2. Firebase: Authentication, real-time DB.
 3. PyCharm: Python scripting.
@@ -32,7 +32,7 @@ Back-End:
 5. Postman: API testing.
 6. Opengate: Social media data integration.
 
-Modeling/ML:
+✅ Modeling/ML:
 1. TensorFlow/Keras: ML model development.
 2. Python/Colab: Scripting and cloud-based ML development.
 3. CNN: Image analysis.
@@ -49,13 +49,13 @@ Modeling/ML:
 
 ✨Dependencies and Showstoppers
 
-Dependencies:
+✅ Dependencies:
 
 1. Device Compatibility: Ensure the app works on various devices and operating systems for wider accessibility.
 2. Data Security: Prioritize user trust and regulatory compliance by maintaining data privacy and security.
 3. API Reliability: Dependence on external services like Google Maps and social media APIs requires consistent availability.
 
-Show Stoppers:
+✅ Show Stoppers:
 
 1. Data Quality: Inaccurate user-generated data can undermine the app's reliability.
 2. Adoption Challenge: Low user adoption rates may result in insufficient data for effective problem-solving.
