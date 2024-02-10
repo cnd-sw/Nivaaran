@@ -8,6 +8,8 @@ A mobile application that crowd sources water-related problems from around a com
 
 **Ideology.md** for knowing what we were successfully able to apply.
 
+**_detecting_location_from_text.py** for code to detect location from captions and to classify the severity of the disaster. This made use of Opengate API and Instagram Basic Display API.
+
 
 
 Fig 1 shows the Block Diagram and Flowchart of project.
