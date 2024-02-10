@@ -2,21 +2,21 @@
 
 A mobile application that crowd sources water-related problems from around a community, open sources data, etc. and display them on a map.
 
-✨**Read**
+✨✨**Read**
 
-**About The Project.md** for knowing about what the repository is about and the practical idea behind this project.
+✅**About The Project.md** for knowing about what the repository is about and the practical idea behind this project.
 
-**Ideology.md** for knowing what we were successfully able to apply.
+✅**Ideology.md** for knowing what we were successfully able to apply.
 
-**_detecting_location_from_text.py** for code to detect location from captions and to classify the severity of the disaster. This made use of Opengate API and Instagram Basic Display API.
+✅**_detecting_location_from_text.py** for code to detect location from captions and to classify the severity of the disaster. This made use of Opengate API and Instagram Basic Display API.
 
-**_flood_detection_mobile_net.py** for code to detect flood or non flood images using MobileNet.
+✅**_flood_detection_mobile_net.py** for code to detect flood or non flood images using MobileNet.
 
-**_flood_vgg19.py** for code to detect flood or non flood images using VGG 19.
+✅**_flood_vgg19.py** for code to detect flood or non flood images using VGG 19.
 
-**flask.py** for the code to make a flask which combined the 2 Machine Learning models.
+✅**flask.py** for the code to make a flask which combined the 2 Machine Learning models.
 
-**model.h5** for the code of android application.
+✅**model.h5** for the code of android application.
 
 Fig 1 shows the Block Diagram and Flowchart of project.
 
